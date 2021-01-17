@@ -29,7 +29,7 @@ namespace NonExistentPersonDownloader
             int folderCounter = 0;
             int perFolderCounter = 0;
 
-            // tweek folder name here
+            // tweak folder name here
             string folderNow = "faces" + folderCounter;
             
             // other online image generators could be used here
