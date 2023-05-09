@@ -1,5 +1,7 @@
 # non-existent-person-downloader
-Download non existent faces from https://thispersondoesnotexist.com/
+~~Download non existent faces from https://thispersondoesnotexist.com/~~
+
+The site does not exists anymore. So this thing is dead.
 
 Why?
 Because it is easy. Made this in 20 minutes. 
